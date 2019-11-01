@@ -92,6 +92,15 @@ footer .end{
     color:#8898AA;
 }
 @media(max-width:600px){
+
+    nav{
+    width: 90%;
+    margin: auto;
+    }
+
+    nav .adjust img, footer img{
+        width: 150px;
+    } 
     footer .flex-container{
         display: block;
         width:100%;
